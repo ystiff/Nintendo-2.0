@@ -2,10 +2,12 @@
 <html>
 <article>
 <h2> Team Savogue | BSIS 2 </h2>
+ 
 ![Steffi](https://media.discordapp.net/attachments/967052131045634088/1067875683537276978/3.png?width=160&height=160) 
 ![Den](https://media.discordapp.net/attachments/967052131045634088/1067875683075895347/2.png?width=160&height=160) 
 ![Cess](https://media.discordapp.net/attachments/967052131045634088/1067875619368599693/1.png?width=160&height=160) 
- <h5> Steffanie F. Egloso </h5>  | Denise Louise R. Chavez | Princess Eloisa Teves </h5>
+           <h5> Steffanie F. Egloso |    Denise Louise R. Chavez |     Princess Eloisa B. Teves </h5>
+ 
 <h2> Motivation </h2>
 <p> 
 To create a simple game that is interactive with the user, implementing object-oriented principles.
@@ -14,23 +16,23 @@ To create a simple game that is interactive with the user, implementing object-o
 
 </article>
 </html>
-#Tic tac toe
+<h2></h2>
 
- """Display game instructions."""
-    print(
-    """
+#  Tic tac toe
+
+ Display game instructions
+   
     Welcome to the greatest intellectual challenge of all time: Tic-Tac-Toe
     This will be a showdown between your human brain and my silicon processor.
     You will make your move known by entering a number, 0 - 8. The number
-    will corresponde to the board position as illustrated:
+    will correspond to the board position as illustrated:
                       0 | 1 | 2
                       ---------
                       3 | 4 | 5
                       ---------
                       6 | 7 | 8
-    Prepare yourself, human. The ultimate battle is about to begin. \n
-    """
-    )
+    Prepare yourself, human. The ultimate battle is about to begin. 
+    
     Press the enter key to exit.
 
 #  Cube Game 
@@ -55,18 +57,12 @@ Each time a player enters a non-available option a message will pop-up saying so
 
 # Snake
 
-## How to Download
-
-Download this project from here [Download Snake](https://downgit.github.io/#/home?url=https://github.com/pyGuru123/Python-Games/tree/master/Snake)
-
 ## Requirements
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install following packages :-
+Use the package manager pip to install following packages :-
 * Pygame
 
-```bash
-pip install pygame
-```
+
 
 ## Usage
 
