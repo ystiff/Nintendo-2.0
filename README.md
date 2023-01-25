@@ -6,8 +6,11 @@
 ![Steffi](https://media.discordapp.net/attachments/967052131045634088/1067875683537276978/3.png?width=160&height=160) 
 ![Den](https://media.discordapp.net/attachments/967052131045634088/1067875683075895347/2.png?width=160&height=160) 
 ![Cess](https://media.discordapp.net/attachments/967052131045634088/1067875619368599693/1.png?width=160&height=160) 
- <h3> Steffanie F. Egloso </h3><h3> Denise Louise R. Chavez </h3><h3> Princess Eloisa Teves </h3>
-
+ <h3> Steffanie F. Egloso  Denise Louise R. Chavez Princess Eloisa Teves </h3>
+<h2> Motivation </h2>
+<p> 
+To create a simple game that is interactive with the user, implementing object-oriented principles.
+</p>
 
 
 </article>
@@ -34,10 +37,7 @@
 #  Cube Game 
 <html>
 <article>
-<h2> Motivation </h2>
-<p> 
-To create a simple game that is interactive with the user, implementing object-oriented principles.
-</p>
+
 <h2> Expected Output </h2>
 <p>
 The output depends in the player's choice of cube, within a set of cubes with suits that range from A to H,
