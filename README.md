@@ -2,11 +2,10 @@
 <html>
 <article>
 <h2> Team Savogue | BSIS 2 </h2>
-
 ![Steffi](https://media.discordapp.net/attachments/967052131045634088/1067875683537276978/3.png?width=160&height=160) 
 ![Den](https://media.discordapp.net/attachments/967052131045634088/1067875683075895347/2.png?width=160&height=160) 
 ![Cess](https://media.discordapp.net/attachments/967052131045634088/1067875619368599693/1.png?width=160&height=160) 
- <h3> Steffanie F. Egloso  Denise Louise R. Chavez Princess Eloisa Teves </h3>
+ <p> Steffanie F. Egloso  Denise Louise R. Chavez Princess Eloisa Teves </p>
 <h2> Motivation </h2>
 <p> 
 To create a simple game that is interactive with the user, implementing object-oriented principles.
