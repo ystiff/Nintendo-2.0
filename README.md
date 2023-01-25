@@ -1,15 +1,16 @@
 # Nintendo-2.0
+<html>
+<article>
+<h2> Team Savogue | BSIS 2 </h2>
 
-#About the Authors:
-We are the Team Savogue from BSIS 2. 
-
-Steffanie F. Egloso
-Denise Louise R. Chavez
-Princess Eloisa Teves
-
-
+<h3> Steffanie F. Egloso </h3>
+<h3> Denise Louise R. Chavez </h3>
+<h3> Princess Eloisa Teves </h3>
 
 
+
+</article>
+</html>
 #Tic tac toe
 
  """Display game instructions."""
@@ -29,7 +30,7 @@ Princess Eloisa Teves
     )
     Press the enter key to exit.
 
-# - Cube Game -
+#  Cube Game 
 <html>
 <article>
 <h2> Motivation </h2>
