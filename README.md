@@ -3,9 +3,9 @@
 <article>
 <h2> Team Savogue | BSIS 2 </h2>
 
-<h3> Steffanie F. Egloso </h3>
-<h3> Denise Louise R. Chavez </h3>
-<h3> Princess Eloisa Teves </h3>
+![Steffi](https://media.discordapp.net/attachments/967052131045634088/1067872378236981401/stef.png?width=400&height=400) <h3> Steffanie F. Egloso </h3>
+![Den](https://media.discordapp.net/attachments/967052131045634088/1067872334112903279/denise.png?width=400&height=400) <h3> Denise Louise R. Chavez </h3>
+![Cess](https://media.discordapp.net/attachments/967052131045634088/1067872354971177000/princess.png?width=400&height=400) <h3> Princess Eloisa Teves </h3>
 
 
 
